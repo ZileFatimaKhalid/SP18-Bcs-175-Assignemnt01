@@ -1,0 +1,35 @@
+#formm {
+  text-align: center;
+  float: right;
+  border: 3px solid darkgrey;
+  justify-content: center;
+  background-color: lightgray;
+  width: 20%;
+  margin-right: 40px;
+
+  font-size:12pt;
+}
+#Name {
+  border-color: #282c34;
+}
+#Age {
+  border-color: #282c34;
+}
+
+tr:nth-child(even) {background: #FFF}
+
+#studentlist {
+  width: 60%;
+  border: 2px solid black;
+  margin-left: 10px;
+  background-color: rgb(182, 185, 185);
+}
+
+#head {
+  text-align: right;
+  margin-right: 80px;
+}
+
+.header {
+  background-color: #ccc;
+}
